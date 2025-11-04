@@ -37,15 +37,15 @@ const downloadPDF = () => {
                     <div class="flex-1">
                         <div class="flex justify-between items-center mb-2">
                             <div>
-                                <h1 class="text-2xl font-bold">王吉颖</h1>
+                                <h1 class="text-2xl font-bold">龚靖文</h1>
                                 <p class="text-sm mt-1">2004-08</p>
                             </div>
-                            <p class="text-lg">期望职位：Java后端/Golang后端</p>
+                            <p class="text-lg">期望职位：Java后端/数据分析与挖掘工程师</p>
                         </div>
                         <div class="grid grid-cols-2 text-sm gap-y-1">
-                            <p>📍 籍贯：浙江宁波</p>
-                            <p>📱 18058289662</p>
-                            <p>📧 w2084151024@gmail.com</p>
+                            <p>📍 籍贯：湖南邵阳</p>
+                            <p>📱 19858802724</p>
+                            <p>📧 1509743314@qq.com</p>
                             <p>🔗 <a href="https://1024110.xyz" class="hover:underline" target="_blank">博客：1024110.xyz</a></p>
                         </div>
                     </div>
@@ -61,7 +61,7 @@ const downloadPDF = () => {
                         <div class="mb-4">
                             <h2 class="text-lg font-bold border-b border-blue-500 dark:border-blue-400 pb-1 mb-2">教育经历</h2>
                             <div class="flex justify-between">
-                                <p class="font-medium">安徽信息工程学院</p>
+                                <p class="font-medium">衢州学院</p>
                                 <p>2022-2026</p>
                             </div>
                             <p class="text-gray-600 dark:text-gray-400">本科</p>
@@ -72,9 +72,9 @@ const downloadPDF = () => {
                             <h2 class="text-lg font-bold border-b border-blue-500 dark:border-blue-400 pb-1 mb-2">竞赛经历</h2>
                             <ul class="list-disc pl-4 space-y-1 text-sm">
                                 <li>第十七届全国大学生计算机设计大赛国家级三等奖</li>
-                                <li>第十七届全国大学生计算机设计大赛安徽省级赛一等奖</li>
-                                <li>第十五届蓝桥杯大赛软件赛B组安徽省级三等奖</li>
-                                <li>第十四届蓝桥杯大赛软件赛B组安徽省级三等奖</li>
+                                <li>第十七届全国大学生计算机设计大赛省级赛一等奖</li>
+                                <li>第十五届蓝桥杯大赛软件赛B组省级三等奖</li>
+                                <li>第十四届蓝桥杯大赛软件赛B组省级三等奖</li>
                             </ul>
                         </div>
 
