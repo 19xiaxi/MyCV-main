@@ -46,7 +46,7 @@ const downloadPDF = () => {
                             <p>📍 籍贯：湖南邵阳</p>
                             <p>📱 19858802724</p>
                             <p>📧 1509743314@qq.com</p>
-                            <p>🔗 <a href="https://1024110.xyz" class="hover:underline" target="_blank">博客：1024110.xyz</a></p>
+                            <p>🔗 <a href="https://blog.09091024.xyz" class="hover:underline" target="_blank">博客：blog.09091024.xyz</a></p>
                         </div>
                     </div>
                 </div>
